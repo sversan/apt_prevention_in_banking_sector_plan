@@ -1,0 +1,10 @@
+
+{% comment %}
+x@test.com
+xx@test.com
+xxx@test.com
+{% endcomment %}
+CITY=Cluj-Napoca
+COUNTRY=Romania
+LATITUDE=46.7712
+LONGITUDE=23.6236
